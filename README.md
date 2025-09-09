@@ -80,7 +80,7 @@ To download the project to your local machine:
 
 bash
 Copy code
-git clone https://github.com/nel850/javascript-challenges.git
+git clone https://github.com/nelsonmunyua/Wk1-CodeChallange
 Installation Requirements
 Git
 
